@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently learning full stack development at Coding Dojo. I already have a BAS in Application Development.  I have a strong working knowledge of HTML, CSS, and MySQL.  I am currently learning Flask (and having fun doing so!)  My background is originally clerical work such as data entry, but I am transitioning into a tech career.  My favorite language is MySQL.
+I have a BAS in Application Development.  I have a strong working knowledge of HTML, CSS, and MySQL.  I am currently learning Flask (and having fun doing so!)  My background is originally clerical work such as data entry, but I am transitioning into a tech career.  One of my motivations behind working in tech was that I found that writing codes is like solving a puzzle, which is also another activity I enjoy! My favorite language is MySQL.
 
 Fun fact:  It was the show "Person of Interest" that piqued my interest in programming and inspired my decision to change careers.
